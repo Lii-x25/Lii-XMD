@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Lii-MD",
+    "script": "index.js",
+    "watch": true,
+    "autorestart": true,
+    "restart_delay": 5000,
+    "env": {
+      "NODE_ENV": "production"
+    }
+  }
+]
